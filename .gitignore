@@ -97,3 +97,6 @@ boost_1_*
 
 # Integration test configuration
 config*.txt
+
+/.vs
+/out
